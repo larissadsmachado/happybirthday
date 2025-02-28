@@ -76,7 +76,7 @@
   }
   
   body{
-    background-image: url("img/millejansen.jpg");
+    background-image: url("img/FUNDO.png");
     background-position: center center;
     background-size: cover;
   }
@@ -84,6 +84,6 @@
   .centrado {
     text-align: justify;
     color: white;
-    margin-right: 245px;
-    margin-left: 245px;
+    margin-right: 340px;
+    margin-left: 340px;
   }
